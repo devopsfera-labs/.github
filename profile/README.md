@@ -108,7 +108,7 @@ Kind Kubernetes
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/leandro-barbosa](https://linkedin.com/in/leandrodeobarbosa)
+- **LinkedIn:** [linkedin.com/in/leandrodeobarbosa](https://linkedin.com/in/leandrodeobarbosa)
 - **Portfolio:** [leandrodeobarbosa.dev](https://leandrodeobarbosa.dev)
 
 ---
